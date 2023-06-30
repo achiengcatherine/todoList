@@ -1,0 +1,30 @@
+.content{
+    width: 800px;
+    height: 500px;
+    background-color: white;
+    
+}
+.todo{
+    padding: 10px;
+    margin-right: 40rem;
+}
+.task{
+    display: flex;
+}
+.task input{
+    border:  transparent;
+    }
+.task .btn{
+    cursor: pointer;
+    padding: 5px;
+    background-color: rgb(148, 147, 145);
+    
+}
+.task .btn:hover{
+    background-color: rgb(48, 49, 49);
+    font-size: 17px;
+    
+}
+hr{
+    width: 780px;
+}

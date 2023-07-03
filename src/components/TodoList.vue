@@ -8,6 +8,18 @@
   <button class="btn">ADD</button>
   </div>
   <hr/>
+  <div class="content">
+    <table>
+      <thead>
+        <tr>
+          <th>Id</th>
+          <th>Tasks</th>
+          <th>Status</th>
+        </tr>
+      </thead>
+    </table>
+  </div>
+
 </div>
 
 </template>

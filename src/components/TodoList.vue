@@ -4,17 +4,24 @@
 <div class="todo">
   <h2>TODO-LIST</h2>
   <div class="task">
-  <input type="text" placeholder="Enter New Task"/>
+  <input type="text"  placeholder="Enter New Task"/>
   <button class="btn">ADD</button>
   </div>
   <hr/>
-  <div class="content">
+ <div class="list">
     <table>
       <thead>
-        <tr>
+        <tr class="header">
           <th>Id</th>
           <th>Tasks</th>
           <th>Status</th>
+          <th>Edit</th>
+         <th>Delete</th>
+        </tr>
+        <tr>
+          <td>01</td>
+          <td>add new task</td>
+          <td>to do</td>
         </tr>
       </thead>
     </table>

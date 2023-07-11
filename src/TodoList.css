@@ -1,7 +1,7 @@
 .content{
     width: 800px;
     height: 500px;
-    background-color: white;
+    background-color: rgb(216, 243, 243);
     
 }
 .todo{
@@ -27,4 +27,12 @@
 }
 hr{
     width: 780px;
+}
+.list table{
+    border: 2px solid gray;
+    width: 400px;
+}
+.list table .header{
+    color: black;
+    
 }

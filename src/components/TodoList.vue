@@ -22,6 +22,12 @@
           <td>01</td>
           <td>add new task</td>
           <td>to do</td>
+          <td>
+            <div><span class="fa fa-pen"></span></div>
+          </td>
+          <td>
+               <div><span class="fa fa-trash"></span></div>
+          </td>
         </tr>
       </thead>
     </table>
